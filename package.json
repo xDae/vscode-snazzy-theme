@@ -1,0 +1,20 @@
+{
+  "name": "vscode-snazzy-theme",
+  "displayName": "VS Code Snazzy Theme",
+  "description": "A snazzy based vs code theme",
+  "version": "0.0.1",
+  "publisher": "xdae",
+  "engines": {
+    "vscode": "^1.15.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [{
+      "label": "Snazzy vs theme",
+      "uiTheme": "vs-dark",
+      "path": "./themes/vscode-snazzy-theme.json"
+    }]
+  }
+}
