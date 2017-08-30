@@ -2,7 +2,6 @@
   "name": "Snazzy vs theme",
   "type": "dark",
   "colors": {
-    // "activityBarBadge.background": "#007acc",
     "sideBarTitle.foreground": "#bbbbbb",
 
     "foreground": "#eff0eb",
@@ -30,12 +29,14 @@
     "statusBar.debuggingBackground": "#6C6E75",
     "statusBar.noFolderBackground": "#6C6E75",
     "activityBar.background": "#282a36",
-    "sideBar.background": "#2C2F3D",
+    "sideBar.background": "#282a36",
+    "sideBar.border": "#2C2F3D",
     "tab.inactiveBackground": "#2C2F3D",
-    "tab.activeBackground": "#232631",
+    "tab.activeBackground": "#282a36",
     "editorGroup.dropBackground": "#232631",
-    "editorGroupHeader.tabsBackground": "#232631",
+    "editorGroupHeader.tabsBackground": "#2C2F3D",
     "titleBar.activeBackground": "#282a36",
+    "widget.shadow": "#282a36",
 
     "terminal.background": "#282a36",
     "terminal.foreground": "#eff0eb",
@@ -75,7 +76,12 @@
     "badge.foreground": "#f1f1f0",
 
     "activityBarBadge.background": "#57c7ff",
-    "activityBarBadge.foreground": "#f1f1f0"
+    "activityBarBadge.foreground": "#f1f1f0",
+
+    "sideBarSectionHeader.background": "#282a36",
+    "sideBarSectionHeader.foreground": "#f1f1f0",
+
+    "dropdown.border": "#2C2F3D"
   },
   "tokenColors": [{
       "settings": {
