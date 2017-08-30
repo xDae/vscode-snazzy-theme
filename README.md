@@ -5,7 +5,12 @@
 [![Visual Studio Marketplace](https://vsmarketplacebadge.apphb.com/version/xdae.vscode-snazzy-theme.svg)](https://marketplace.visualstudio.com/items/xdae.vscode-snazzy-theme) [![Visual Studio Marketplace](https://vsmarketplacebadge.apphb.com/installs/xdae.vscode-snazzy-theme.svg)](https://marketplace.visualstudio.com/items/xdae.vscode-snazzy-theme) [![Visual Studio Marketplace](https://vsmarketplacebadge.apphb.com/rating-short/xdae.vscode-snazzy-theme.svg)](https://marketplace.visualstudio.com/items/xdae.vscode-snazzy-theme) [![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/xDae/vscode-snazzy-theme/blob/master/LICENSE.md)
 
 ![](https://github.com/xDae/vscode-snazzy-theme/raw/master/cap-1.png)
+---
 ![](https://github.com/xDae/vscode-snazzy-theme/raw/master/cap-2.png)
+---
+![](https://github.com/xDae/vscode-snazzy-theme/raw/master/cap-3.png)
+---
+![](https://github.com/xDae/vscode-snazzy-theme/raw/master/cap-4.png)
 
 ## About
 
