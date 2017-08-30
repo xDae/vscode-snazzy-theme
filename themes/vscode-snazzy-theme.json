@@ -37,7 +37,8 @@
     "editorGroup.dropBackground": "#232631",
     "editorGroupHeader.tabsBackground": "#282a36",
     "titleBar.activeBackground": "#282a36",
-    "widget.shadow": "#282a36",
+    "widget.shadow": "#2C2F3D",
+    "scrollbar.shadow": "#282a36",
     "focusBorder": "#2C2F3D",
 
     "input.background": "#54555e",
