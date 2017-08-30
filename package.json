@@ -7,7 +7,7 @@
         "type": "git",
         "url": "https://github.com/xDae/vscode-snazzy-theme.git"
     },
-    "version": "0.0.5",
+    "version": "0.0.6",
     "publisher": "xdae",
     "engines": {
         "vscode": "^1.15.0"
