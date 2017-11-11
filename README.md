@@ -16,6 +16,27 @@
 
 Visual Studio Code theme based on hyper-snazzy colors from [Sindre Sorhus](https://github.com/sindresorhus).
 
+## Colors:
+
+#2c2f3d;
+#232631;
+#282a36;
+#616263;
+#54555e;
+#686868;
+#f1f1f0;
+#eff0eb;
+
+#57c7ff;
+#9aedfe;
+#5af78e;
+#ff6ac1;
+#ff5c57;
+#ffcb6b;
+#f3f99d;
+#f1f1f0;
+
+
 ## Install
 
 This theme is available for free in the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items/xdae.vscode-snazzy-theme).

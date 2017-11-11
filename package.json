@@ -1,27 +1,32 @@
 {
-    "name": "vscode-snazzy-theme",
-    "displayName": "VS Snazzy Theme",
-    "description": "VS Code Theme based in hyper-snazzy ",
-    "homepage": "https://marketplace.visualstudio.com/items/xdae.vscode-snazzy-theme",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/xDae/vscode-snazzy-theme.git"
-    },
-    "version": "0.0.7",
-    "publisher": "xdae",
-    "engines": {
-        "vscode": "^1.15.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "VS Snazzy Theme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/vscode-snazzy-theme.json"
-            }
-        ]
-    }
+  "name": "vscode-snazzy-theme",
+  "displayName": "VS Snazzy Theme",
+  "description": "VS Code Theme based in hyper-snazzy ",
+  "homepage": "https://marketplace.visualstudio.com/items/xdae.vscode-snazzy-theme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xDae/vscode-snazzy-theme.git"
+  },
+  "version": "0.0.8",
+  "publisher": "xdae",
+  "engines": {
+    "vscode": "^1.15.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "VS Snazzy Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vscode-snazzy-theme.json"
+      }
+    ]
+  },
+  "__metadata": {
+    "id": "2f4fb94e-4c51-44d5-8ccc-83fcebb6d0c9",
+    "publisherDisplayName": "jose miguel bejarano",
+    "publisherId": "8f307f40-7e25-4974-9155-9e0c0295ea27"
+  }
 }
