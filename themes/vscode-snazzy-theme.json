@@ -29,7 +29,7 @@
       "editorWhitespace.foreground": "#616263",
       "focusBorder": "#2C2F3D",
       "foreground": "#eff0eb",
-      "modifiedResourceForeground": "#ffcb6b",
+      "gitDecoration.modifiedResourceForeground": "#ffcb6b",
       "gitDecoration.deletedResourceForeground": "#ff5c57",
       "gitDecoration.untrackedResourceForeground": "#5af78e",
       "gitDecoration.ignoredResourceForeground": "#686868",
