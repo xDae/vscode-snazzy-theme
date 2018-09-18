@@ -9,8 +9,9 @@
       "badge.foreground": "#f1f1f0",
       "dropdown.border": "#2C2F3D",
       "editor.background": "#282a36",
+      "editor.findMatchBackground": "#97979b",
       "editor.findMatchHighlightBackground": "#54555e",
-      "editor.findRangeHighlightBackground": "#54555e",
+      "editor.findRangeHighlightBackground": "#282a36",
       "editor.foreground": "#eff0eb",
       "editor.hoverHighlightBackground": "#54555e",
       "editor.lineHighlightBackground": "#2C2F3D",
@@ -23,12 +24,14 @@
       "editorGroup.dropBackground": "#232631",
       "editorGroupHeader.tabsBackground": "#282a36",
       "editorIndentGuide.background": "#616263",
+      "editorUnnecessaryCode.opacity": "#54555e",
       "editorLineNumber.foreground": "#616263",
       "editorLink.activeForeground": "#ff5c57",
       "editorWarning.foreground": "#f3f99d",
       "editorWhitespace.foreground": "#616263",
       "focusBorder": "#2C2F3D",
       "foreground": "#eff0eb",
+      "errorForeground": "#ff5c57",
       "gitDecoration.modifiedResourceForeground": "#ffcb6b",
       "gitDecoration.deletedResourceForeground": "#ff5c57",
       "gitDecoration.untrackedResourceForeground": "#5af78e",
@@ -59,7 +62,7 @@
       "statusBar.background": "#282a36",
       "statusBar.debuggingBackground": "#6C6E75",
       "statusBar.foreground": "#6C6E75",
-      "statusBar.noFolderBackground": "#6C6E75",
+      "statusBar.noFolderBackground": "#282a36",
       "tab.activeBackground": "#282a36",
       "tab.border": "#282a36",
       "tab.inactiveBackground": "#282a36",
@@ -118,7 +121,7 @@
               "constant.other.color"
           ],
           "settings": {
-              "foreground": "#ffffff"
+              "foreground": "#eff0eb"
           }
       },
       {
@@ -157,7 +160,6 @@
               "keyword.control",
               "keyword.other.substitution",
               "keyword.other.template",
-              "meta.tag",
               "punctuation",
               "punctuation.definition.tag",
               "punctuation.definition.tag.begin.html",
@@ -168,6 +170,15 @@
           ],
           "settings": {
               "foreground": "#89DDFF"
+          }
+      },
+      {
+          "name": "Html text",
+          "scope": [
+              "meta.tag"
+          ],
+          "settings": {
+              "foreground": "#eff0eb"
           }
       },
       {
